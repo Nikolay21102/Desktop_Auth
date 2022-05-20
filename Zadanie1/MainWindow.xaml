@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Zadanie1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="750">
+        Title="MainWindow" Height="450" Width="750" MaxHeight="450" MaxWidth="750" MinHeight="450" MinWidth="750">
     <Grid>
         <Image Source="Logo.jpg" Height="160" Width="190" HorizontalAlignment="Right" VerticalAlignment="Top"></Image>
         <TextBlock Text="Телеком Нева Связь" FontSize="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60, 30, 0, 0"></TextBlock>
