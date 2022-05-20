@@ -52,5 +52,11 @@ namespace Zadanie1
             if (!Char.IsDigit(e.Text, 0))
                 e.Handled = true;
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            TextBox1.Text = "";
+            TextBox2.Text = "";
+        }
     }
 }
