@@ -12,5 +12,8 @@
         <TextBox HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 0, 0, 50"></TextBox>
         <TextBox HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 30, 0, 0"></TextBox>
         <TextBox HorizontalAlignment="Center" Height="30" Width="140" Margin="20, 110, 0, 0"></TextBox>
+        <Label Content="Номер" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 0, 205, 55" FontSize="18" FontWeight="Medium"></Label>
+        <Label Content="Пароль" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 25, 200, 0" FontSize="18" FontWeight="Medium"></Label>
+        <Label Content="Код" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 105, 230, 0" FontSize="18" FontWeight="Medium"></Label>
     </Grid>
 </Window>
