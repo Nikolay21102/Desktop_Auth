@@ -23,6 +23,27 @@ namespace Zadanie1
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = this;
+        }
+
+        public string Login { get; set; }
+        public string Password { get; set; }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            using (UsersEntities context = new UsersEntities())
+            {
+                var users = context.Users.ToList();
+                var result = users.FirstOrDefault(x => x.Login == Login && x.Password == Password);
+                if (result != null)
+                {
+                    MessageBox.Show("Успех");
+                }
+                else
+                {
+                    MessageBox.Show("Пароль или логин неправильный");
+                }
+            }
         }
     }
 }

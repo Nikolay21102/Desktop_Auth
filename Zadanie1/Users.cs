@@ -15,7 +15,7 @@ namespace Zadanie1
     public partial class Users
     {
         public int id { get; set; }
-        public Nullable<int> Login { get; set; }
+        public string Login { get; set; }
         public string Password { get; set; }
     }
 }

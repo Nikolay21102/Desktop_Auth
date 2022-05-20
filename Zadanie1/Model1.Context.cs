@@ -13,10 +13,10 @@ namespace Zadanie1
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Данные_пользователяEntities : DbContext
+    public partial class UsersEntities : DbContext
     {
-        public Данные_пользователяEntities()
-            : base("name=Данные_пользователяEntities")
+        public UsersEntities()
+            : base("name=UsersEntities")
         {
         }
     
