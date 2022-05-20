@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1_MarkupCompile.cache
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1_MarkupCompile.lref
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.g.resources
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.pdb

@@ -8,5 +8,9 @@
         Title="MainWindow" Height="450" Width="750">
     <Grid>
         <Image Source="Logo.jpg" Height="160" Width="190" HorizontalAlignment="Right" VerticalAlignment="Top"></Image>
+        <TextBlock Text="Телеком Нева Связь" FontSize="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60, 30, 0, 0"></TextBlock>
+        <TextBox HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 0, 0, 50"></TextBox>
+        <TextBox HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 30, 0, 0"></TextBox>
+        <TextBox HorizontalAlignment="Center" Height="30" Width="140" Margin="20, 110, 0, 0"></TextBox>
     </Grid>
 </Window>
