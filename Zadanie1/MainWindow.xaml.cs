@@ -24,6 +24,7 @@ namespace Zadanie1
         {
             InitializeComponent();
             DataContext = this;
+            this.TextBox1.PreviewTextInput += new TextCompositionEventHandler(TextBox1_PreviewTextInput);
         }
 
         public string Login { get; set; }
@@ -44,6 +45,12 @@ namespace Zadanie1
                     MessageBox.Show("Пароль или логин неправильный");
                 }
             }
+        }
+
+        private void TextBox1_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            if (!Char.IsDigit(e.Text, 0))
+                e.Handled = true;
         }
     }
 }

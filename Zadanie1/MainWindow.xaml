@@ -9,9 +9,9 @@
     <Grid>
         <Image Source="Logo.jpg" Height="160" Width="190" HorizontalAlignment="Right" VerticalAlignment="Top"></Image>
         <TextBlock Text="Телеком Нева Связь" FontSize="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60, 30, 0, 0"></TextBlock>
-        <TextBox x:Name="textBox1" HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 0, 0, 50"></TextBox>
-        <TextBox x:Name="textBox2" HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 30, 0, 0"></TextBox>
-        <TextBox x:Name="textBox3" HorizontalAlignment="Center" Height="30" Width="140" Margin="20, 110, 0, 0"></TextBox>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 0, 0, 50" FontSize="24" TextInput="TextBox1_PreviewTextInput" MaxLength="11"></TextBox>
+        <TextBox x:Name="TextBox2" HorizontalAlignment="Center" Height="30" Width="200" Margin="80, 30, 0, 0" FontSize="20"></TextBox>
+        <TextBox x:Name="TextBox3" HorizontalAlignment="Center" Height="30" Width="140" Margin="20, 110, 0, 0" FontSize="16"></TextBox>
         <Label Content="Номер" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 0, 205, 55" FontSize="18" FontWeight="Medium"></Label>
         <Label Content="Пароль" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 25, 200, 0" FontSize="18" FontWeight="Medium"></Label>
         <Label Content="Код" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 105, 230, 0" FontSize="18" FontWeight="Medium"></Label>
