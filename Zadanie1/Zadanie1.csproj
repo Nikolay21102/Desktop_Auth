@@ -103,5 +103,13 @@
   <ItemGroup>
     <Resource Include="Logo.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Auto.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Auto.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
