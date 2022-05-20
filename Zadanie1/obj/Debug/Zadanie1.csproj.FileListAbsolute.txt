@@ -13,3 +13,10 @@ C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.csproj.Gene
 C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.exe
 C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.pdb
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1_Content.g.cs
+C:\Users\Admin\source\repos\Desktop_Auth\Zadanie1\obj\Debug\Zadanie1.csproj.CopyComplete

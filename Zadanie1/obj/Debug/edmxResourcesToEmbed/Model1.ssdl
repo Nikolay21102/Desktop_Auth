@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище АбонентыModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "Абоненты.dbo.Abonents" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Abonents">
+          <Property Name="Номер абонента" Type="nvarchar" MaxLength="255" />
+          <Property Name="ФИО" Type="nvarchar" MaxLength="255" />
+          <Property Name="Пол" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата рождения" Type="nvarchar" MaxLength="255" />
+          <Property Name="Номер телефона" Type="nvarchar" MaxLength="255" />
+          <Property Name="Электронная почта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Адрес прописки" Type="nvarchar" MaxLength="255" />
+          <Property Name="Адрес проживания" Type="nvarchar" MaxLength="255" />
+          <Property Name="Серия и номер паспорта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Код подразделения" Type="nvarchar" MaxLength="255" />
+          <Property Name="Кем выдан" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата выдачи паспорта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Номер договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата заключения договора" Type="datetime" />
+          <Property Name="Тип договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Причина расторжения договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Лицевой счет" Type="float" />
+          <Property Name="Услуги" Type="nvarchar" MaxLength="255" />
+          <Property Name="Услуги1" Type="nvarchar" MaxLength="255" />
+          <Property Name="Услуги2" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата расторжения договора" Type="datetime" />
+          <Property Name="F22" Type="nvarchar" MaxLength="255" />
+          <Property Name="Серийный номер оборудования " Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "Абоненты.dbo.Worksheet$" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Worksheet$">
+          <Property Name="Номер абонента" Type="nvarchar" MaxLength="255" />
+          <Property Name="ФИО" Type="nvarchar" MaxLength="255" />
+          <Property Name="Пол" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата рождения" Type="nvarchar" MaxLength="255" />
+          <Property Name="Номер телефона" Type="nvarchar" MaxLength="255" />
+          <Property Name="Электронная почта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Адрес прописки" Type="nvarchar" MaxLength="255" />
+          <Property Name="Адрес проживания" Type="nvarchar" MaxLength="255" />
+          <Property Name="Серия и номер паспорта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Код подразделения" Type="nvarchar" MaxLength="255" />
+          <Property Name="Кем выдан" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата выдачи паспорта" Type="nvarchar" MaxLength="255" />
+          <Property Name="Номер договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата заключения договора" Type="datetime" />
+          <Property Name="Тип договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Причина расторжения договора" Type="nvarchar" MaxLength="255" />
+          <Property Name="Лицевой счет" Type="float" />
+          <Property Name="Услуги" Type="nvarchar" MaxLength="255" />
+          <Property Name="Услуги1" Type="nvarchar" MaxLength="255" />
+          <Property Name="Услуги2" Type="nvarchar" MaxLength="255" />
+          <Property Name="Дата расторжения договора" Type="datetime" />
+          <Property Name="F22" Type="nvarchar" MaxLength="255" />
+          <Property Name="Серийный номер оборудования " Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
+  <EntityContainer Name="Хранилище АбонентыModelContainer" />
+</Schema>
